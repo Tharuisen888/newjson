@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Northanger Abbey",
+    "author": "Austen, Jane",
+    "year_written": 1808,
+    "edition": "Penguin",
+    "price": 19.8
+  },
+  {
+    "title": "War and Peace",
+    "author": "Tolstoy, Leo",
+    "year_written": 1872,
+    "edition": "Penguin",
+    "price": 11.2
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Tolstoy, Leo",
+    "year_written": 1888,
+    "edition": "Penguin",
+    "price": 14.7
+  },
+  {
+    "title": "Mrs. Dalloway",
+    "author": "Woolf, Virginia",
+    "year_written": 1932,
+    "edition": "Harcourt Brace",
+    "price": 23.5
+  },
+  {
+    "title": "The Hours",
+    "author": "Cunningham, Michael",
+    "year_written": 2003,
+    "edition": "Harcourt Brace",
+    "price": 13.65
+  },
+  {
+    "title": "Huckleberry Finn",
+    "author": "Twain, Mark",
+    "year_written": 1868,
+    "edition": "Penguin",
+    "price": 6.25
+  },
+  {
+    "title": "Bleak House",
+    "author": "Dickens, Charles",
+    "year_written": 1875,
+    "edition": "Random House",
+    "price": 5.45
+  },
+  {
+    "title": "Tom Sawyer",
+    "author": "Twain, Mark",
+    "year_written": 1860,
+    "edition": "Random House",
+    "price": 8.1
+  },
+  {
+    "title": "A Room of One's Own",
+    "author": "Woolf, Virginia",
+    "year_written": 1925,
+    "edition": "Penguin",
+    "price": 30.5
+  },
+  {
+    "title": "Harry Potter",
+    "author": "Rowling, J.K.",
+    "year_written": 2005,
+    "edition": "Harcourt Brace",
+    "price": 18.2
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Marquez",
+    "year_written": 1972,
+    "edition": "Harper Perennial",
+    "price": 15.75
+  },
+  {
+    "title": "Hamlet, Prince of Denmark",
+    "author": "Shakespeare",
+    "year_written": 1608,
+    "edition": "Signet Classics",
+    "price": 8.45
+  },
+  {
+    "title": "Lord of the Rings",
+    "author": "Tolkien, J.R.",
+    "year_written": 1945,
+    "edition": "Penguin",
+    "price": 26.1
+  }
+]
